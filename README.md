@@ -1,4 +1,4 @@
-# Digital-Humanities- Women's role in films
+# Digital Humanities- Women's role in films
 
 The Project’s Goal- 
 The goal of the project is to examine the degree of involvement and integration of women in the movie industry. In more detail: 
