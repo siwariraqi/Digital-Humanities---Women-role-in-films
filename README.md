@@ -1,6 +1,6 @@
 # Digital Humanities- Women's role in films
-files: https://www.mediafire.com/folder/fsk1tn31d43e2/all_files
-website: https://ofry57.wixsite.com/website/actors
+- files: https://www.mediafire.com/folder/fsk1tn31d43e2/all_files
+- website: https://ofry57.wixsite.com/website/actors
 The Project’s Goal- 
 The goal of the project is to examine the degree of involvement and integration of women in the movie industry. In more detail: 
 
