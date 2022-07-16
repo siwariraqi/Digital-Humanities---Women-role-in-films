@@ -42,12 +42,9 @@ Overall, this tool will allow one to explore the differences between male and fe
 Visualization (graphs, timelines, etc.):
 - Total number of actresses participating in films each year.
 - Percentage of actresses who participate in movies out of all actors each year.
-- Number of actresses participating in films categorized by country.
-- Total time actresses appear in the film from the total time of the film, by year.
-- Total time actresses appear in the film compared to actors, by year.
 - The role of women in films over the years, categorized by genres (history, suspense, romance, etc.)
 - The role women tend to play and the number of actresses who received role awards by years.
-- Top 10 actresses by number of movies. 
+- Top 5 actresses by number of movies. 
 
 Bibliography
 - https://www.imdb.com
