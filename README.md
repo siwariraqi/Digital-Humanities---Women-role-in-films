@@ -21,7 +21,7 @@ The social struggle that our project deals with combines several points:
 
 The Work Plan 
 In this part of the proposal, we will discuss what tools are being considered for use.
-* Initially, we plan to use several records from TMDB. This database is a movie database in which is a popular, user editable database for movies and TV shows.
+* Initially, we plan to use several records from TMDB and IMDB. This database is a movie database in which is a popular, user editable database for movies and TV shows.
 * Secondly, after examining the movie records in the database and noting records which do not refer to gender (male/female), we will use Wikidata's API in order to help us find this gender partition (male vs. female). Pursuing this further, we plan to get all films in our timeline of 1980-2022 and the cast of the film, looking at all actors who played some type of role. Using SPARQL queries, we plan to cross-reference the information from TMDB and Wikidata to identify women (female actors).
 * To help us achieve the above we will create a Python script. Using queries we will retrieve our data into the form of JSON files, containing relevant data between all the years we are focusing on.
 * We will process the information we collected in the form of graphs, tables, charts, and timelines to understand and analyze the data more easily. We will create this visual content from the JSON files using tableau. Using these tools, we will examine what roles women actors tend to play and their contribution to the movie industry. 
